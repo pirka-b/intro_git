@@ -1,2 +1,4 @@
 はじめてのGit
 GIT/GitHubの連携
+・git add
+・git commit(※ｺﾒﾝﾄ付で変更説明等を明記する！)
