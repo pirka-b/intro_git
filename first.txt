@@ -4,3 +4,4 @@ GIT/GitHubの連携
 ・git commit(※ｺﾒﾝﾄ付で変更説明等を明記する！)
 ・git rm
 ・git status
+・git diff
